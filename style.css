@@ -5,3 +5,12 @@
 .greyside{
    border-left : 1px solid grey;
 }
+
+.masthead {
+  background-color: grey;
+}
+
+
+.greyside2{
+   border-right : 1px solid grey;
+}
