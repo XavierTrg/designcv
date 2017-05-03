@@ -1,3 +1,7 @@
-body{
-    margin:3;
+.greyBottom{
+   border-bottom : 1px solid grey;
+}
+
+.greyside{
+   border-left : 1px solid grey;
 }
